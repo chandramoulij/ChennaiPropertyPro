@@ -1,0 +1,8 @@
+
+{
+  "name": "ChennaiPropertyPro",
+  "description": "A sleek, scalable bank auction directory platform featuring AI-powered listing generation, advanced search capabilities, and ad-optimized layouts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
